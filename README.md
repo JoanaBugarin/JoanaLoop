@@ -3,6 +3,6 @@ El siguiente ejercicio fue creado en el lenguaje Ruby, utilizando repl.it (plata
 https://replit.com/@JoanaBugarin/JoanaLoop#main.rb
 
 ### Consigna
-Crear un array y llenarlo con los números del 0 al 100.
-A su vez, copiar únicamente los números pares del primer array a un segundo array.
+Crear un array y llenarlo con los números del 0 al 100.   
+A su vez, copiar únicamente los números pares del primer array a un segundo array.   
 Imprimir por pantalla ambos arrays.
